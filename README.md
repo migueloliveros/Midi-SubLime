@@ -1,4 +1,4 @@
-# SuBLime
+# SubLime
 8 channel MIDI mix Akai with Pure Data/Gem...
 
 Published:
